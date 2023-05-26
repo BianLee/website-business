@@ -1,14 +1,20 @@
 import Image from "next/image";
 import Header from "@/components/header";
 import Pricing from "@/components/pricing";
-import Contact from "@/components/contact";
+import FAQ from "@/components/faq";
+import Logos from "@/components/logos";
+import About from "@/components/about";
+import Communications from "@/components/communications";
 
-export default function Home() {
+export default function Page() {
   return (
     <>
       <Header />
       <Pricing />
-      <Contact />
+      <Logos />
+      <Communications />
+      <FAQ />
+      <About />
 
       <br />
       <br />
