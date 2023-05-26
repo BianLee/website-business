@@ -19,14 +19,8 @@ export default function About() {
           <div class="text-white">
             <div class="mx-auto max-w-5xl text-left">
               <p class="mt-4 text-lg text-white">
-                Effective communication is the key to success in every
-                organization. In today&apos;s digitized world, it starts with a
-                webpage that stands out in its looks and performance. I&apos;ve
-                been building websites and dabbling in web technologies since
-                middle school. I&apos;ve acquired skills, big and small, in all
-                aspects; from choosing fonts, implementing code-splitting,
-                lazy-loading contents, and combining many different technologies
-                and framework to optimizing my workflow.
+                I've been building websites and tinkering around with web
+                technologies since freshman year of high school.
               </p>
             </div>
           </div>

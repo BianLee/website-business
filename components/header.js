@@ -33,7 +33,7 @@ export default function Header() {
           </div>
           <center>
             <Link
-              class="mt-4 ml-2 inline-block text-white rounded border border-white px-12 py-3 text-sm font-medium text-white hover:text-white focus:outline-none focus:ring active:bg-indigo-500"
+              class="mt-4 ml-2 inline-block text-white rounded border border-white px-12 py-3 text-sm font-medium text-white"
               href="/account"
             >
               Submit Google Form
