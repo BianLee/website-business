@@ -105,8 +105,9 @@ export default function Contact() {
               </summary>
 
               <p class="mt-4 leading-relaxed text-gray-700">
-                I'm currently a college student studying computer science. I've
-                built countless many websites and here are some examples:
+                I&apos;m currently a college student studying computer science.
+                I&apos;ve built countless many websites and here are some
+                examples:
                 <a href="https://allegrostudio.tech" target="_blank">
                   {" "}
                   allegrostudio.tech
@@ -121,9 +122,9 @@ export default function Contact() {
                   {" "}
                   interstem.us
                 </a>{" "}
-                and many more (most of which I can't share for client
-                confidentiality). Besides school and freelance work, I've held
-                internships; one at a startup, and another at local state
+                and many more (most of which I can&apos;t share for client
+                confidentiality). Besides school and freelance work, I&apos;ve
+                held internships; one at a startup, and another at local state
                 government agency.
               </p>
             </details>
