@@ -6,8 +6,8 @@ import "../app/globals.css";
 export default function Contact() {
   return (
     <>
-      <section class="bg-white">
-        <div class="mx-auto max-w-5xl px-4 sm:px-6  lg:px-8">
+      <section class="bg-gray-50">
+        <div class="mx-auto max-w-5xl px-4 sm:px-6  lg:px-8  pt-10 py-10">
           <div class="mx-auto max-w-3xl text-center">
             <h2 class="text-3xl font-normal text-gray-900 sm:text-4xl">
               Frequently Asked Questions
@@ -16,7 +16,7 @@ export default function Contact() {
           <br />
           <br />
           <div class="space-y-4">
-            <details class="group rounded-lg bg-gray-100 p-6 [&_summary::-webkit-details-marker]:hidden">
+            <details class="group rounded-lg bg-gray-200 p-6 [&_summary::-webkit-details-marker]:hidden">
               <summary class="flex cursor-pointer items-center justify-between gap-1.5 text-gray-900">
                 <h2 class="font-medium">
                   Can I request additional edits days after the transaction is
@@ -68,7 +68,7 @@ export default function Contact() {
                 update it all the time.
               </p>
             </details>
-            <details class="group rounded-lg bg-gray-100 p-6 [&_summary::-webkit-details-marker]:hidden">
+            <details class="group rounded-lg bg-gray-200 p-6 [&_summary::-webkit-details-marker]:hidden">
               <summary class="flex cursor-pointer items-center justify-between gap-1.5 text-gray-900">
                 <h2 class="font-medium">
                   Are there any other service tiers besides the ones listed
@@ -115,7 +115,7 @@ export default function Contact() {
                 bianlee2004@gmail.com.
               </p>
             </details>
-            <details class="group rounded-lg bg-gray-100 p-6 [&_summary::-webkit-details-marker]:hidden">
+            <details class="group rounded-lg bg-gray-200 p-6 [&_summary::-webkit-details-marker]:hidden">
               <summary class="flex cursor-pointer items-center justify-between gap-1.5 text-gray-900">
                 <h2 class="font-medium">How does custom domain name work?</h2>
 
@@ -168,7 +168,7 @@ export default function Contact() {
               </p>
             </details>
 
-            <details class="group rounded-lg bg-gray-100 p-6 [&_summary::-webkit-details-marker]:hidden">
+            <details class="group rounded-lg bg-gray-200 p-6 [&_summary::-webkit-details-marker]:hidden">
               <summary class="flex cursor-pointer items-center justify-between gap-1.5 text-gray-900">
                 <h2 class="font-medium">What are your qualifications?</h2>
 
@@ -259,7 +259,7 @@ export default function Contact() {
                 .
               </p>
             </details>
-            <details class="group rounded-lg bg-gray-100 p-6 [&_summary::-webkit-details-marker]:hidden">
+            <details class="group rounded-lg bg-gray-200 p-6 [&_summary::-webkit-details-marker]:hidden">
               <summary class="flex cursor-pointer items-center justify-between gap-1.5 text-gray-900">
                 <h2 class="font-medium">Why are you freelancing?</h2>
 
@@ -298,14 +298,14 @@ export default function Contact() {
 
               <p class="mt-4 leading-relaxed text-gray-700">
                 First, I am trying to raise capital to put towards my startup.
-                Since VCs are out of reach as of now, &quot;hustling&quot; is
-                the best bet. Second, I constantly improve my dev skills simply
+                Since VCs are out of reach as of now, I gotta &quot;hustle&quot;
+                to make money. Second, I constantly improve my dev skills simply
                 from writing lots of code and completing many projects. Finally,
                 I get to help many businesses / people through my skills
                 (clients are generally very satisfied with my work).
               </p>
             </details>
-            <details class="group rounded-lg bg-gray-100 p-6 [&_summary::-webkit-details-marker]:hidden">
+            <details class="group rounded-lg bg-gray-200 p-6 [&_summary::-webkit-details-marker]:hidden">
               <summary class="flex cursor-pointer items-center justify-between gap-1.5 text-gray-900">
                 <h2 class="font-medium">How does payment work?</h2>
 
@@ -345,10 +345,11 @@ export default function Contact() {
               <p class="mt-4 leading-relaxed text-gray-700">
                 I ask that all my clients pay 20% upfront. Once the work is
                 complete and you are happy with the site, you pay the rest. For
-                the payment method, Zelle or Venmo works.
+                the payment method, Zelle, or Venmo works. I also accept ETH:
+                0xA3494222eD39b140651a8D205B7131cEe344ed17
               </p>
             </details>
-            <details class="group rounded-lg bg-gray-100 p-6 [&_summary::-webkit-details-marker]:hidden">
+            <details class="group rounded-lg bg-gray-200 p-6 [&_summary::-webkit-details-marker]:hidden">
               <summary class="flex cursor-pointer items-center justify-between gap-1.5 text-gray-900">
                 <h2 class="font-medium">
                   What&apos;s special about the Startup Tier?
@@ -403,7 +404,7 @@ export default function Contact() {
                 to case.
               </p>
             </details>
-            <details class="group rounded-lg bg-gray-100 p-6 [&_summary::-webkit-details-marker]:hidden">
+            <details class="group rounded-lg bg-gray-200 p-6 [&_summary::-webkit-details-marker]:hidden">
               <summary class="flex cursor-pointer items-center justify-between gap-1.5 text-gray-900">
                 <h2 class="font-medium">
                   Can I hire you for bigger projects? (employment)

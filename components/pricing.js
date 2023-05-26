@@ -6,17 +6,21 @@ import "../app/globals.css";
 export default function Pricing() {
   return (
     <>
-      <section class="bg-white">
-        <div class="mx-auto max-w-screen-2xl px-4 py-12 sm:px-6 md:py-16 lg:px-8   ">
+      <section class="bg-gray-50">
+        <div class="mx-auto max-w-screen-2xl px-4 py-12 sm:px-6 md:py-12 lg:px-8  ">
           <div class="mx-auto max-w-3xl text-center">
             <h2 class="text-3xl font-normal text-gray-900 sm:text-4xl ">
               Services & Pricing
             </h2>
+
+            <p class="text-gray-800 text-md mt-4">
+              *10% discount applied on all tiers if paid in Ethereum!!
+            </p>
           </div>
 
-          <div class="mt-8 sm:mt-12">
+          <div class="sm:mt-8">
             <dl class="grid grid-cols-1 gap-4 sm:grid-cols-4">
-              <div class="rounded-lg border border-gray-300 px-4 py-8 text-center hover:bg-gray-100">
+              <div class="rounded-lg border border-gray-300 px-4 py-8 text-center bg-white  hover:bg-pink-100">
                 <div class="order-last text-2xl font-medium text-gray-800">
                   Basic - $90
                 </div>
@@ -29,7 +33,7 @@ export default function Pricing() {
                 </div>
               </div>
 
-              <div class="rounded-lg border border-gray-300 px-4 py-8 text-center hover:bg-gray-100">
+              <div class="rounded-lg border border-gray-300 px-4 py-8 text-center bg-white  hover:bg-pink-100">
                 <div class="order-last text-2xl font-medium text-gray-800">
                   Personal - $140
                 </div>
@@ -43,7 +47,7 @@ export default function Pricing() {
                 </div>
               </div>
 
-              <div class="rounded-lg border border-gray-300 px-4 py-8 text-center hover:bg-gray-100">
+              <div class="rounded-lg border border-gray-300 px-4 py-8 text-center bg-white hover:bg-pink-100">
                 <div class="order-last text-2xl font-medium text-gray-800">
                   ★ Standard - $190
                 </div>
@@ -59,7 +63,7 @@ export default function Pricing() {
                 </div>
               </div>
 
-              <div class="rounded-lg border border-gray-300 px-4 py-8 text-center hover:bg-gray-100">
+              <div class="rounded-lg border border-gray-300 px-4 py-8 text-center bg-white  hover:bg-pink-100">
                 <div class="order-last text-2xl font-medium text-gray-800">
                   Startup - $500~
                 </div>

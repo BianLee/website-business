@@ -6,8 +6,8 @@ import "../app/globals.css";
 export default function Communications() {
   return (
     <>
-      <section className="">
-        <div class="mx-auto max-w-screen-xl px-4 py-12 sm:px-6 md:py-16 lg:px-8 bg-white bg-gradient-to-bl from-violet-100 via-cyan-200 to-neutral-100 rounded-md">
+      <section className=" pt-10 py-10 bg-gray-50">
+        <div class="mx-auto px-4 py-12 sm:px-6 md:py-16 lg:px-8 bg-white bg-gradient-to-bl from-violet-100 via-cyan-200 to-neutral-100">
           <div class="mx-auto max-w-3xl text-center">
             <h2 class="text-3xl font-normal text-gray-900 sm:text-4xl">
               Communications
@@ -29,17 +29,13 @@ export default function Communications() {
                 feedback. You could also email me for general inquiries.
                 <br />
                 <br />
-                Email: bianlee2004@gmail.com
-                <br />
-                Discord: bostonlobstergang#6098
+                Email: <u>bianlee2004@gmail.com</u>, Discord:
+                <u>bostonlobstergang#6098</u>
               </p>
             </div>
           </div>
         </div>
       </section>
-      <br />
-      <br />
-      <br />
     </>
   );
 }

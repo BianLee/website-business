@@ -7,21 +7,21 @@ export default function Logos() {
   return (
     <>
       <section class="bg-white">
-        <div class="mx-auto max-w-5xl px-4 sm:px-6  lg:px-8">
+        <div class="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 pt-10 py-10">
           <div class="mx-auto max-w-3xl text-center">
             <h2 class="text-3xl font-normal text-gray-900 sm:text-4xl">
-              Custom-designed logo included
+              Custom-designed logo is a cherry on top
             </h2>
             <div class="mx-auto text-center">
               <p class="mt-4 text-lg text-gray-800">
-                On top of being a a higly efficient front-end dev, I also do a
-                bit of design.{" "}
+                On top of being a dev, I also sometimes design. (Mostly to prove
+                a point that <i>anyone</i> can design).{" "}
                 <span class="bg-sky-100">
-                  That&apos;s why every tier comes with a customized logo for
-                  your organization, business, whatever.
+                  Along with the site, you&apos;ll also receive a logo that you
+                  could use for yourself, or your business.
                 </span>{" "}
-                (Gotta differentiate yourself in any way, y&apos;know?) Below
-                are some of my past logo designs:
+                (Gotta differentiate yourself in any way, y&apos;know?). Below
+                are some of my work:
               </p>
             </div>
           </div>
@@ -60,14 +60,12 @@ export default function Logos() {
             <p class="mt-4 text-md text-gray-800">
               <br />
               1) Logo for a startup I&apos;m building. <br />
-              2) The Great State of Florida. <br />
-              3) Music theory education app. <br />
-              4) An investment firm.
+              2) The Free State of Florida! <br />
+              3) For a music theory education app I&apos;m building <br />
+              4) A &quot;random&quot; logo with my first initial. Investment
+              firm type logo
             </p>
           </div>
-          <br />
-          <br />
-          <br />
         </div>
       </section>
     </>
