@@ -15,7 +15,7 @@ export default function Header() {
           >
             <div className="inline-block mb-2">
               <div
-                class="text-white inline-block text-5xl lg:text-7xl sm:text-[55px]"
+                class="text-white inline-block text-[55px] lg:text-7xl sm:text-[55px]"
                 style={{ lineHeight: "3.5rem" }}
               >
                 Build Empires on the Web
