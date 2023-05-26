@@ -19,7 +19,7 @@ export default function About() {
           <div class="text-white">
             <div class="mx-auto max-w-5xl text-left">
               <p class="mt-4 text-lg text-white">
-                I've been building websites and tinkering around with web
+                I&apos;ve been building websites and tinkering around with web
                 technologies since freshman year of high school.
               </p>
             </div>
