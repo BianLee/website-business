@@ -59,8 +59,8 @@ export default function Logos() {
           <div class="mx-auto text-left">
             <p class="mt-4 text-md text-gray-800">
               <br />
-              1) Logo for a startup I&apos;m building. <br />
-              2) The Free State of Florida! <br />
+              1) Logo for a startup I&apos;m currently building. <br />
+              2) Long Live The Free State of Florida! <br />
               3) For a music theory education app I&apos;m building <br />
               4) A &quot;random&quot; logo with my first initial. Investment
               firm type logo
