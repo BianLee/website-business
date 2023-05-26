@@ -7,7 +7,7 @@ export default function Header() {
   return (
     <>
       <section className="bg-gradient-to-bl from-violet-300 via-pink-500 to-neutral-100">
-        <div className="mx-auto lg:max-w-5xl sm:max-w-6xl md:max-w-6xl max-w-5xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
+        <div className="mx-auto lg:max-w-5xl sm:max-w-4xl md:max-w-6xl max-w-5xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
           {/* Build & Grow Your Listener Base */}
           <h2
             className="text-center text-5xl font-bold text-white tracking-tight sm:text-6xl"
