@@ -18,7 +18,7 @@ export default function Header() {
                 class="text-white inline-block text-5xl lg:text-7xl sm:text-5xl"
                 style={{ lineHeight: "3.5rem" }}
               >
-                Affordable Websites For All
+                Build Empires on the Web
               </div>
             </div>
             {/* <div class="text-orange-400 inline-block">AllegroStudio</div> */}

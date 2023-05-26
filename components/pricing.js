@@ -12,15 +12,11 @@ export default function Pricing() {
             <h2 class="text-3xl font-normal text-gray-900 sm:text-4xl ">
               Services & Pricing
             </h2>
-
-            <p class="text-gray-800 text-md mt-4">
-              *10% discount applied on all tiers if paid in Ethereum!!
-            </p>
           </div>
 
           <div class="sm:mt-8">
             <dl class="grid grid-cols-1 gap-4 sm:grid-cols-4">
-              <div class="rounded-lg border border-gray-300 px-4 py-8 text-center bg-white  hover:bg-pink-100">
+              <div class="rounded-lg border border-gray-300 px-4 py-8 text-center bg-white  hover:bg-pink-50">
                 <div class="order-last text-2xl font-medium text-gray-800">
                   Basic - $90
                 </div>
@@ -29,11 +25,12 @@ export default function Pricing() {
                   <br /> • Custom business logo
                   <br /> • Route to custom domain
                   <br /> • SEO optimization
+                  <br /> • Codebase shared via GitHub
                   <br /> • Delivered within 3 days
                 </div>
               </div>
 
-              <div class="rounded-lg border border-gray-300 px-4 py-8 text-center bg-white  hover:bg-pink-100">
+              <div class="rounded-lg border border-gray-300 px-4 py-8 text-center bg-white  hover:bg-pink-50">
                 <div class="order-last text-2xl font-medium text-gray-800">
                   Personal - $140
                 </div>
@@ -43,11 +40,12 @@ export default function Pricing() {
                   <br /> • Custom business logo
                   <br /> • Route to custom domain
                   <br /> • SEO optimization
+                  <br /> • Codebase shared via GitHub
                   <br /> • Delivered within 3 days
                 </div>
               </div>
 
-              <div class="rounded-lg border border-gray-300 px-4 py-8 text-center bg-white hover:bg-pink-100">
+              <div class="rounded-lg border border-gray-300 px-4 py-8 text-center bg-white hover:bg-pink-50">
                 <div class="order-last text-2xl font-medium text-gray-800">
                   ★ Standard - $190
                 </div>
@@ -59,11 +57,12 @@ export default function Pricing() {
                   <br /> • Route to custom domain
                   <br /> • SEO optimization
                   <br /> • Monthly updates on the site
-                  <br /> • Delivered within 5 days
+                  <br /> • Codebase shared via GitHub
+                  <br /> • Delivered within 7 days
                 </div>
               </div>
 
-              <div class="rounded-lg border border-gray-300 px-4 py-8 text-center bg-white  hover:bg-pink-100">
+              <div class="rounded-lg border border-gray-300 px-4 py-8 text-center bg-white  hover:bg-pink-50">
                 <div class="order-last text-2xl font-medium text-gray-800">
                   Startup - $500~
                 </div>
@@ -79,7 +78,7 @@ export default function Pricing() {
                   <br /> • Business copywriting
                   <br /> • Dynamic components
                   <br /> • Database implementation
-                  <br /> • Codebase shared to client on GitHub
+                  <br /> • Codebase shared via GitHub
                   <br /> • General business consulting / advice
                   <br /> • Varying deadline
                 </div>
