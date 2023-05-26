@@ -26,14 +26,7 @@ export default function About() {
                 middle school. I&apos;ve acquired skills, big and small, in all
                 aspects; from choosing fonts, implementing code-splitting,
                 lazy-loading contents, and combining many different technologies
-                and framework to optimizing my workflow. <br />
-                <br />
-                Here are some of my accomplishments in the world of web: My
-                biggest site, that I built for a 501(c)(3) non-profit, received
-                over 200k+ traffic. A web app I developed in high school won a
-                local business competition, winning me mentorship from Sillicon
-                Valley business consultants. My service is an investment to your
-                growth, and I hope you seize the opportunity today.
+                and framework to optimizing my workflow.
               </p>
             </div>
           </div>

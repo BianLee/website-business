@@ -17,12 +17,12 @@ export default function Pricing() {
           <div class="mt-8">
             <dl class="grid grid-cols-1 gap-4 sm:grid-cols-4">
               <div class="rounded-lg border border-gray-300 px-4 py-8 text-center bg-white  hover:bg-pink-50">
-                <div class="order-last text-2xl font-medium text-gray-800">
+                <div class="order-last text-2xl font-medium text-center text-gray-800">
                   Basic - $160
                 </div>
-                <div class="text-gray-600 mt-4">
+                <div class="text-gray-600 mt-4 text-left px-4">
                   • Landing page (1 page)
-                  <br /> • Custom business logo
+                  <br /> • 1 custom logo
                   <br /> • Route to custom domain
                   <br /> • SEO optimization
                   <br /> • Codebase shared via GitHub
@@ -31,13 +31,13 @@ export default function Pricing() {
               </div>
 
               <div class="rounded-lg border border-gray-300 px-4 py-8 text-center bg-white  hover:bg-pink-50">
-                <div class="order-last text-2xl font-medium text-gray-800">
+                <div class="order-last text-2xl font-medium text-center text-gray-800">
                   Personal - $190
                 </div>
-                <div class="text-gray-600 mt-4">
+                <div class="text-gray-600 mt-4 text-left px-4">
                   • Landing page
                   <br /> • 2 to 5 pages
-                  <br /> • Custom business logo
+                  <br /> • 1 custom logo
                   <br /> • Route to custom domain
                   <br /> • SEO optimization
                   <br /> • Codebase shared via GitHub
@@ -46,16 +46,18 @@ export default function Pricing() {
               </div>
 
               <div class="rounded-lg border border-gray-300 px-4 py-8 text-center bg-white hover:bg-pink-50">
-                <div class="order-last text-2xl font-medium text-gray-800">
+                <div class="order-last text-2xl text-center font-medium text-gray-800">
                   ★ Standard - $250
                 </div>
-                <div class="text-gray-600 mt-4">
+                <div class="text-gray-600 mt-4 text-left px-4">
                   {" "}
                   • Landing Page
                   <br /> • 5 to 10 pages
-                  <br /> • Custom business logo
+                  <br /> • 1 custom logo
+                  <br /> • 1 custom banner
                   <br /> • Route to custom domain
                   <br /> • SEO optimization
+                  <br /> • CMS with Google Sheets
                   <br /> • Monthly updates on the site
                   <br /> • Codebase shared via GitHub
                   <br /> • Delivered within 7 days
@@ -63,23 +65,25 @@ export default function Pricing() {
               </div>
 
               <div class="rounded-lg border border-gray-300 px-4 py-8 text-center bg-white  hover:bg-pink-50">
-                <div class="order-last text-2xl font-medium text-gray-800">
-                  Startup - $500~
+                <div class="order-last text-2xl font-medium text-gray-800 text-center">
+                  Startup - $600~
                 </div>
-                <div class="text-gray-600 mt-4">
+                <div class="text-gray-600 mt-4 text-left px-4">
                   {" "}
                   • Landing Page
                   <br /> • 10+ pages
-                  <br /> • Custom business logo
-                  <br /> • Custom business banner
+                  <br /> • 1 custom logo
+                  <br /> • 2 custom banners
                   <br /> • Route to custom domain
                   <br /> • SEO optimization
+                  <br /> • A/B Testing
                   <br /> • Authentication (Login)
+                  <br /> • CMS with Google Sheets
                   <br /> • Business copywriting
-                  <br /> • Dynamic components
-                  <br /> • Database implementation
+                  <br /> • Shoutout / promo on social media
                   <br /> • Codebase shared via GitHub
-                  <br /> • General business consulting / advice
+                  <br /> • Equivalent UI mockup on Figma
+                  <br /> • Business consulting / advice
                   <br /> • Varying deadline
                 </div>
               </div>

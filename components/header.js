@@ -25,7 +25,7 @@ export default function Header() {
           </h2>
           <div className="mb-0 sm:mb-0 md:mb-3 lg:mb-5 sm:mt-5 lg:mt-3 mt-5">
             <div className="text-center  inline-block sm:text-xl lg:text-xl text-white tracking-tight sm:text-lg sm:mt-3 lg:mt-5">
-              At affordable budget, I&apos;ll build you a blazingly-fast,
+              At affordable pricing, I&apos;ll build you a blazingly-fast,
               mobile-friendly website with: brilliant design, intuitive UI,
               simple CMS (with Google Sheets API) and effective SEO — bundled
               with customized logos and banners.

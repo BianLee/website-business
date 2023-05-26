@@ -19,8 +19,8 @@ export default function Contact() {
             <details class="group rounded-lg bg-gray-200 p-6 [&_summary::-webkit-details-marker]:hidden">
               <summary class="flex cursor-pointer items-center justify-between gap-1.5 text-gray-900">
                 <h2 class="font-medium">
-                  Can I request additional edits days after the transaction is
-                  complete?
+                  Can I request additional edits after the initial transaction
+                  is complete?
                 </h2>
 
                 <span class="relative h-5 w-5 shrink-0">
@@ -71,8 +71,8 @@ export default function Contact() {
             <details class="group rounded-lg bg-gray-200 p-6 [&_summary::-webkit-details-marker]:hidden">
               <summary class="flex cursor-pointer items-center justify-between gap-1.5 text-gray-900">
                 <h2 class="font-medium">
-                  Are there any other service tiers besides the ones listed
-                  above? How flexible can you be?
+                  Is the pricing negotiable? Can I pick and choose specific
+                  features for you to implement?
                 </h2>
 
                 <span class="relative h-5 w-5 shrink-0">
@@ -109,10 +109,9 @@ export default function Contact() {
               </summary>
 
               <p class="mt-4 leading-relaxed text-gray-700">
-                Yes, I am very flexible with my work and we can always
-                negotiate, regarding both the site design / structure, as well
-                as pricing. Please feel free to email me at
-                bianlee2004@gmail.com.
+                Yes, I am very flexible and we can always negotiate regarding
+                the features of the site, as well as pricing. Please feel free
+                to email me at bianlee2004@gmail.com.
               </p>
             </details>
             <details class="group rounded-lg bg-gray-200 p-6 [&_summary::-webkit-details-marker]:hidden">
@@ -245,10 +244,16 @@ export default function Contact() {
                   {" "}
                   interstem.us
                 </a>{" "}
-                and a whole lot more (most of which I can&apos;t share for
-                client confidentiality). Besides school and freelance work,
-                I&apos;ve done internships; one at a startup, and another at
-                local state government agency. Here is my{" "}
+                and a whole lot more (most of which I can&apos;t share due to
+                client confidentiality). Some software related accomplishments
+                I&apos;m proud of: Building a site for a 501(c)(3) nonprofit
+                that received 200k+ site traffic, placing in a local business
+                competition with a full-stack app and winning mentorship from
+                Sillicon Valley business consultants, and placing third at a
+                regional cybersecurity competition and winning $2k. Besides
+                school and freelance work, I&apos;ve done internships; one at a
+                startup, and another at local state government agency. Here is
+                my{" "}
                 <a
                   href="https://www.linkedin.com/in/bianlee/"
                   target="_blank"
@@ -297,11 +302,14 @@ export default function Contact() {
               </summary>
 
               <p class="mt-4 leading-relaxed text-gray-700">
-                First, I am trying to raise capital to put towards my startup.
-                Since VCs are out of reach as of now, I gotta &quot;hustle&quot;
-                to make money. Second, I constantly improve my dev skills simply
-                from writing lots of code and completing many projects. Finally,
-                I get to help many businesses / people through my skills
+                First, I am trying to raise capital that I can allocate towards
+                my startup. Since VCs are out of reach as of now, this is one of
+                the &quot;hustles&quot; I do to make money. Second, I constantly
+                improve my dev skills simply from writing lots of code and
+                completing many projects. This work isn't just
+                &quot;labor&quot;, it's an opportunity to put my dev skills to
+                test through completing practical work for real clients.
+                Finally, I get to help many businesses / people through my
                 (clients are generally very satisfied with my work).
               </p>
             </details>
@@ -389,25 +397,26 @@ export default function Contact() {
               </summary>
 
               <p class="mt-4 leading-relaxed text-gray-700">
-                Startup Tier goes beyond website creation, as it also includes
-                product building aspect to it. I will build the site with the
-                assumption that more code will be added later on by you, the
-                client. This means I care more about code readability,
-                performance, and security, with utilization of dynamic
-                components and server-side rendering. The goal is for you (the
-                business founder) to focus solely on building the core
-                components of your startup and leave all barebone stuff to me.
-                I&apos;ll also work more closely to pitch in on the startup to
-                help build successful brand. At request, I could also implement
-                a simple authentication and database system, meant for quick
-                prototyping. Please note that pricing for this tier varies case
-                to case.
+                Startup Tier goes beyond website creation, also including
+                product-building / management aspect to it. This solution is
+                ideal for founders at an ideation stage, who wish to ship out a
+                working prototype quickly. Working with the assumption that more
+                code will be written later on, I aim to provide strong
+                foundations of an app that utilizes various techniques such as
+                dynamic components, server-side rendering, code-splitting, etc.
+                The goal is for clients (founders) to focus on core features of
+                their business, while leaving me to build the bare-bones. At
+                request, additional features could be implemented: This includes
+                but not limit to Firebase authentication, database integration
+                with MongoDB, simple CMS using Google Sheets API, A/B testing,
+                Google analytics, etc. I also work more closely with the
+                founder(s) to build a strong brand.
               </p>
             </details>
             <details class="group rounded-lg bg-gray-200 p-6 [&_summary::-webkit-details-marker]:hidden">
               <summary class="flex cursor-pointer items-center justify-between gap-1.5 text-gray-900">
                 <h2 class="font-medium">
-                  Can I hire you for bigger projects? (employment)
+                  Can I hire you for bigger projects / employment?
                 </h2>
 
                 <span class="relative h-5 w-5 shrink-0">
@@ -444,16 +453,13 @@ export default function Contact() {
               </summary>
 
               <p class="mt-4 leading-relaxed text-gray-700">
-                As a full-time CS student in college, my career aspirations lie
-                in software engineering. I write a lot of code (both in &
-                outside class) in many different languages and frameworks, lot
-                of which are non front-end web related. If you are looking to
-                hire a software engineering intern, for, let&apos;s say, a
-                start-up, I&apos;d love to join and contribute. Having interned
-                at an early stage startup, I&apos;m passionate about building
-                scalable systems, shipping products, and customer acquisition.
-                If you need someone with technical skills on the team, please
-                consider hiring me as a SWE.
+                Yes, absolutely. I actively follow the startup space and would
+                love to join one as a SWE. My internship at Vestr.io, a social
+                finance startup, has given me some insight into the process of
+                series funding, team-building, and rolling out products. I'm
+                quite interested in customer acquisition, as well as raising
+                capital. If you are a startup founder in need of an engineer,
+                you should consider hiring me.
               </p>
             </details>
           </div>
