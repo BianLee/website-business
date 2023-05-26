@@ -37,7 +37,7 @@ export default function Logos() {
             <div>
               <img
                 className="h-auto max-w-full rounded-lg"
-                src="logoSix.png"
+                src="ewsFinal.png"
                 alt=""
               />
             </div>
@@ -60,7 +60,7 @@ export default function Logos() {
             <p class="mt-4 text-md text-gray-800">
               <br />
               1) Logo for a startup I&apos;m currently building <br />
-              2) The Free State of Florida <br />
+              2) This site: empireweb.space <br />
               3) Logo for a music theory education app I&apos;m building <br />
               4) A &quot;random&quot; logo with my first initial. Investment
               firm type logo
