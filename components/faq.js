@@ -306,9 +306,9 @@ export default function Contact() {
                 my startup. Since VCs are out of reach as of now, this is one of
                 the &quot;hustles&quot; I do to make money. Second, I constantly
                 improve my dev skills simply from writing lots of code and
-                completing many projects. This work isn't just
-                &quot;labor&quot;, it's an opportunity to put my dev skills to
-                test through completing practical work for real clients.
+                completing many projects. This work isn&apos;t just
+                &quot;labor&quot;, it&apos;s an opportunity to put my dev skills
+                to test through completing practical work for real clients.
                 Finally, I get to help many businesses / people through my
                 (clients are generally very satisfied with my work).
               </p>
@@ -353,8 +353,7 @@ export default function Contact() {
               <p class="mt-4 leading-relaxed text-gray-700">
                 I ask that all my clients pay 20% upfront. Once the work is
                 complete and you are happy with the site, you pay the rest. For
-                the payment method, Zelle, or Venmo works. I also accept ETH:
-                0xA3494222eD39b140651a8D205B7131cEe344ed17
+                the payment method, Zelle or Venmo works.
               </p>
             </details>
             <details class="group rounded-lg bg-gray-200 p-6 [&_summary::-webkit-details-marker]:hidden">
@@ -456,10 +455,10 @@ export default function Contact() {
                 Yes, absolutely. I actively follow the startup space and would
                 love to join one as a SWE. My internship at Vestr.io, a social
                 finance startup, has given me some insight into the process of
-                series funding, team-building, and rolling out products. I'm
-                quite interested in customer acquisition, as well as raising
-                capital. If you are a startup founder in need of an engineer,
-                you should consider hiring me.
+                series funding, team-building, and rolling out products.
+                I&apos;m quite interested in customer acquisition, as well as
+                raising capital. If you are a startup founder in need of an
+                engineer, you should consider hiring me.
               </p>
             </details>
           </div>
