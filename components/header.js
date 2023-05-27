@@ -35,6 +35,7 @@ export default function Header() {
             <Link
               class="mt-4 ml-2 inline-block text-white rounded border border-white px-12 py-3 text-sm font-medium text-white"
               href="https://docs.google.com/forms/d/e/1FAIpQLSelAFDU0FMLFmmSFTc_eMNC_z9mtD51O4qA5UI_nXWXg2sO4Q/viewform?usp=sf_link"
+              target="_blank"
             >
               Fill Out Form
             </Link>

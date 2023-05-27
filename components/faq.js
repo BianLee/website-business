@@ -205,10 +205,9 @@ export default function Contact() {
               </summary>
 
               <p class="mt-4 leading-relaxed text-gray-700">
-                I&apos;m currently a college student studying computer science
-                and economics. I&apos;ve built countless many websites, both
-                static and dynamic, using various technologies and stacks. Here
-                are some examples:
+                I&apos;m currently a college student double majoring in computer
+                science and economics. I&apos;ve built countless many websites,
+                both static and dynamic, using various technologies and stacks:
                 <a
                   href="https://mentalheal.tech"
                   target="_blank"
@@ -245,15 +244,14 @@ export default function Contact() {
                   interstem.us
                 </a>{" "}
                 and a whole lot more (most of which I can&apos;t share due to
-                client confidentiality). Some software related accomplishments
-                I&apos;m proud of: Building a site for a 501(c)(3) nonprofit
-                that received 200k+ site traffic, placing in a local business
-                competition with a full-stack app and winning mentorship from
-                Sillicon Valley business consultants, and placing third at a
-                regional cybersecurity competition and winning $2k. Besides
-                school and freelance work, I&apos;ve done internships; one at a
-                startup, and another at local state government agency. Here is
-                my{" "}
+                client confidentiality). Some software related accomplishments I
+                have: Building a site for a 501(c)(3) nonprofit that received
+                200k+ site traffic, placing in a local business competition with
+                a full-stack app and winning mentorship from Sillicon Valley
+                business consultants, and placing third at a regional
+                cybersecurity competition and winning $2k. Besides school and
+                freelance work, I&apos;ve done internships; one at a startup,
+                and another at local state government agency. Here is my{" "}
                 <a
                   href="https://www.linkedin.com/in/bianlee/"
                   target="_blank"
