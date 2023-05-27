@@ -9,12 +9,12 @@ export default function Communications() {
       <section className=" pt-10 py-10 bg-gray-50">
         <div class="mx-auto px-4 py-12 sm:px-6 md:py-16 lg:px-8 bg-white bg-gradient-to-bl from-violet-100 via-cyan-200 to-neutral-100">
           <div class="mx-auto max-w-3xl text-center">
-            <h2 class="text-3xl font-normal text-gray-900 sm:text-4xl">
+            <h2 class="text-3xl font-normal text-gray-900 sm:text-4xl ">
               Communications
             </h2>
           </div>
           <div class="text-white">
-            <div class="mx-auto max-w-4xl text-center">
+            <div class="mx-auto max-w-4xl text-left md:text-center sm:text-left lg:text-center">
               <p class="mt-4 text-lg text-gray-800">
                 My two{" "}
                 <u>

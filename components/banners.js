@@ -9,7 +9,7 @@ export default function Banners() {
       <section class="bg-gray-50">
         <div class="mx-auto max-w-5xl px-4 sm:px-6  lg:px-8 pt-10 py-10">
           <div class="mx-auto max-w-3xl text-center">
-            <h2 class="text-3xl font-normal text-gray-900 sm:text-4xl">
+            <h2 class="text-3xl font-normal text-gray-900 sm:text-4xl text-left md:text-center sm:text-left lg:text-center">
               Get banners with Standard or Startup tier
             </h2>
             <div class="mx-auto text-left md:text-center sm:text-left lg:text-center">

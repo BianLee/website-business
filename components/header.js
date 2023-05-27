@@ -34,7 +34,7 @@ export default function Header() {
           <center>
             <Link
               class="mt-4 ml-2 bg-pink-600 inline-block text-white rounded px-12 py-3 text-sm font-medium text-white"
-              href="/bio"
+              href="/"
             >
               About
             </Link>
@@ -43,7 +43,7 @@ export default function Header() {
               href="https://docs.google.com/forms/d/e/1FAIpQLSelAFDU0FMLFmmSFTc_eMNC_z9mtD51O4qA5UI_nXWXg2sO4Q/viewform?usp=sf_link"
               target="_blank"
             >
-              Fill Out Form (Hire Me)
+              Hire Me →
             </Link>
           </center>
         </div>

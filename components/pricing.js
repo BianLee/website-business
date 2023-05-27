@@ -14,7 +14,7 @@ export default function Pricing() {
             </h2>
           </div>
 
-          <div class="mt-8">
+          <div class="mt-3 sm:mt-3 md: mt-8 lg:mt-8">
             <dl class="grid grid-cols-1 gap-4 sm:grid-cols-4">
               <div class="rounded-lg border border-gray-300 px-4 py-8 text-center bg-white  hover:bg-pink-50">
                 <div class="order-last text-2xl font-medium text-center text-gray-800">
