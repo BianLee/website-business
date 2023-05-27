@@ -25,7 +25,7 @@ export default function Header() {
           </h2>
           <div className="mb-0 sm:mb-0 md:mb-3 lg:mb-5 sm:mt-5 lg:mt-3 mt-5">
             <div className="text-center  inline-block sm:text-xl lg:text-xl text-white tracking-tight sm:text-lg sm:mt-3 lg:mt-5">
-              At affordable pricing, I&apos;ll build you a blazingly-fast,
+              At affordable price tag, I&apos;ll build you a blazingly-fast,
               mobile-friendly website with: brilliant design, intuitive UI,
               simple CMS (with Google Sheets API) and effective SEO — bundled
               with customized logos and banners.
@@ -34,9 +34,9 @@ export default function Header() {
           <center>
             <Link
               class="mt-4 ml-2 inline-block text-white rounded border border-white px-12 py-3 text-sm font-medium text-white"
-              href="/account"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSelAFDU0FMLFmmSFTc_eMNC_z9mtD51O4qA5UI_nXWXg2sO4Q/viewform?usp=sf_link"
             >
-              Submit Google Form
+              Fill Out Form
             </Link>
           </center>
         </div>

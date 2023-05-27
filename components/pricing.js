@@ -18,7 +18,7 @@ export default function Pricing() {
             <dl class="grid grid-cols-1 gap-4 sm:grid-cols-4">
               <div class="rounded-lg border border-gray-300 px-4 py-8 text-center bg-white  hover:bg-pink-50">
                 <div class="order-last text-2xl font-medium text-center text-gray-800">
-                  Basic - $160
+                  Basic - $70
                 </div>
                 <div class="text-gray-600 mt-4 text-left px-4">
                   • Landing page (1 page)
@@ -32,7 +32,7 @@ export default function Pricing() {
 
               <div class="rounded-lg border border-gray-300 px-4 py-8 text-center bg-white  hover:bg-pink-50">
                 <div class="order-last text-2xl font-medium text-center text-gray-800">
-                  Personal - $190
+                  Personal - $140
                 </div>
                 <div class="text-gray-600 mt-4 text-left px-4">
                   • Landing page
@@ -47,7 +47,7 @@ export default function Pricing() {
 
               <div class="rounded-lg border border-gray-300 px-4 py-8 text-center bg-white hover:bg-pink-50">
                 <div class="order-last text-2xl text-center font-medium text-gray-800">
-                  ★ Standard - $250
+                  ★ Standard - $200
                 </div>
                 <div class="text-gray-600 mt-4 text-left px-4">
                   {" "}
@@ -66,7 +66,7 @@ export default function Pricing() {
 
               <div class="rounded-lg border border-gray-300 px-4 py-8 text-center bg-white  hover:bg-pink-50">
                 <div class="order-last text-2xl font-medium text-gray-800 text-center">
-                  Startup - $600~
+                  Startup - $450~
                 </div>
                 <div class="text-gray-600 mt-4 text-left px-4">
                   {" "}
