@@ -27,8 +27,8 @@ export default function Header() {
             <div className="text-center  inline-block sm:text-xl lg:text-xl text-white tracking-tight sm:text-lg sm:mt-3 lg:mt-5">
               For extremely affordable price, we&apos;ll build you a
               blazingly-fast, mobile-friendly website with: brilliant design,
-              intuitive UI, simple CMS (w/ Google Sheets API) and effective SEO
-              — bundled with customized logos & banners.
+              intuitive UI, simple CMS (Sheets API) and effective SEO — bundled
+              with customized logos & banners.
             </div>
           </div>
           <center>

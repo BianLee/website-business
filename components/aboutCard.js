@@ -14,13 +14,13 @@ export default function AboutCard() {
         style={{ fontFamily: "'Ubuntu', sans-serif" }}
       >
         <div
-          class="text-gray-800 lg:text-3xl sm:text-4xl text-4xl mt-8"
+          class="text-gray-800 lg:text-3xl sm:text-3xl text-3xl mt-8"
           style={{ lineHeight: "3.7rem" }}
         >
           Empireweb.space Team
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
           <div
             style={{ paddingTop: "2rem", paddingBottom: "3rem" }}
             href="#"
@@ -29,9 +29,8 @@ export default function AboutCard() {
             <span class="absolute inset-x-0 bottom-0 h-2 bg-gradient-to-r from-pink-300 via-indigo-500 to-blue-600"></span>
 
             <div class="sm:flex sm:justify-between sm:gap-4">
-              <h3 class="lg:text-3xl text-2xl font-bold text-gray-900 sm:text-2xl">
-                Bian Lee{" "}
-                <span class="text-sm">Founder / Lead Developer / Sales</span>
+              <h3 class="lg:text-3xl text-2xl font-bold text-gray-700 sm:text-2xl">
+                Bian Lee <span class="text-sm">Lead Developer / Sales</span>
               </h3>
             </div>
 
@@ -53,7 +52,7 @@ export default function AboutCard() {
 
             <div class="sm:flex sm:justify-between sm:gap-4">
               <div>
-                <h3 class="lg:text-3xl text-2xl font-bold text-gray-900 sm:text-2xl">
+                <h3 class="lg:text-3xl text-2xl font-bold text-gray-700 sm:text-2xl">
                   Ritvik Irigireddy{" "}
                   <span class="text-sm">Developer / Sales</span>
                 </h3>
