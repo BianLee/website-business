@@ -6,6 +6,7 @@ import "../app/globals.css";
 export default function Logos() {
   return (
     <>
+      <hr></hr>
       <section class="bg-white">
         <div class="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 pt-10 py-10">
           <div class="mx-auto max-w-3xl text-center">

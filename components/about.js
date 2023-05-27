@@ -6,6 +6,7 @@ import "../app/globals.css";
 export default function About() {
   return (
     <>
+      <hr></hr>
       <br />
       <br />
       <br />
