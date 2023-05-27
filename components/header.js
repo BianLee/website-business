@@ -34,7 +34,7 @@ export default function Header() {
           <center>
             <Link
               class="mt-4 ml-2 bg-pink-600 inline-block text-white rounded px-12 py-3 text-sm font-medium text-white"
-              href="/"
+              href="/about"
             >
               About
             </Link>

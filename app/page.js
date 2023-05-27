@@ -3,7 +3,7 @@ import Header from "@/components/header";
 import Pricing from "@/components/pricing";
 import FAQ from "@/components/faq";
 import Logos from "@/components/logos";
-import About from "@/components/about";
+import Footer from "@/components/footer";
 import Banners from "@/components/banners";
 
 import Samples from "@/components/samples";
@@ -21,7 +21,7 @@ export default function Page() {
       <Communications />
       <FAQ />
 
-      <About />
+      <Footer />
 
       <br />
       <br />

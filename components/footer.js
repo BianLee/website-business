@@ -3,7 +3,7 @@ import "../fonts/satoshi.css";
 import Link from "next/link";
 import "../app/globals.css";
 
-export default function About() {
+export default function Footer() {
   return (
     <>
       <hr></hr>
