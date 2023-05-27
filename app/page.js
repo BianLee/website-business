@@ -5,6 +5,8 @@ import FAQ from "@/components/faq";
 import Logos from "@/components/logos";
 import About from "@/components/about";
 import Banners from "@/components/banners";
+
+import Samples from "@/components/samples";
 import Communications from "@/components/communications";
 
 export default function Page() {
@@ -12,6 +14,8 @@ export default function Page() {
     <>
       <Header />
       <Pricing />
+
+      <Samples />
       <Logos />
       <Banners />
       <Communications />

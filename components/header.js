@@ -37,7 +37,7 @@ export default function Header() {
               href="https://docs.google.com/forms/d/e/1FAIpQLSelAFDU0FMLFmmSFTc_eMNC_z9mtD51O4qA5UI_nXWXg2sO4Q/viewform?usp=sf_link"
               target="_blank"
             >
-              Fill Out Form
+              Fill Out Form (Hire Me)
             </Link>
           </center>
         </div>
