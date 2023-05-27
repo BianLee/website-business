@@ -36,7 +36,7 @@ export default function Header() {
               class="mt-4 ml-2 bg-pink-600 inline-block text-white rounded px-12 py-3 text-sm font-medium text-white"
               href="/bio"
             >
-              About Me
+              About
             </Link>
             <Link
               class="mt-4 ml-2 inline-block hover:bg-pink-300 text-white rounded border border-white px-12 py-3 text-sm font-medium text-white"
