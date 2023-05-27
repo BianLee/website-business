@@ -29,7 +29,7 @@ export default function AboutCard() {
             <span class="absolute inset-x-0 bottom-0 h-2 bg-gradient-to-r from-pink-300 via-indigo-500 to-blue-600"></span>
 
             <div class="sm:flex sm:justify-between sm:gap-4">
-              <h3 class="lg:text-3xl text-2xl font-bold text-gray-700 sm:text-2xl">
+              <h3 class="lg:text-3xl text-2xl font-bold text-gray-500 sm:text-2xl">
                 Bian Lee <span class="text-sm">Lead Developer / Sales</span>
               </h3>
             </div>
@@ -52,7 +52,7 @@ export default function AboutCard() {
 
             <div class="sm:flex sm:justify-between sm:gap-4">
               <div>
-                <h3 class="lg:text-3xl text-2xl font-bold text-gray-700 sm:text-2xl">
+                <h3 class="lg:text-3xl text-2xl font-bold text-gray-500 sm:text-2xl">
                   Ritvik Irigireddy{" "}
                   <span class="text-sm">Developer / Sales</span>
                 </h3>
