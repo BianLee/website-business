@@ -15,11 +15,11 @@ export default function Samples() {
             </h2>
             <div class="mx-auto text-left md:text-center sm:text-left lg:text-center">
               <p class="mt-4 text-lg text-gray-800">
-                I select appropriate frameworks, layouts, fonts, and color
+                We select appropriate frameworks, layouts, fonts, and color
                 schemes to fit the purpose of a site. From{" "}
                 <span class="bg-amber-100">
                   professional portfolios, artistic pages, org directories, and
-                  startup landing pages, I have the right design.
+                  startup landing pages, we always have the right design.
                 </span>{" "}
                 Check out the samples:
               </p>

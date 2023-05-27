@@ -15,14 +15,14 @@ export default function Logos() {
             </h2>
             <div class="mx-auto text-left md:text-center sm:text-left lg:text-center">
               <p class="mt-4 text-lg text-gray-800">
-                Besides dev work, I also design. (Mostly to prove a point that{" "}
+                Besides dev work, we also design. (Mostly to prove a point that{" "}
                 <i>anyone</i> can design).{" "}
                 <span class="bg-sky-100">
                   Along with the site, you&apos;ll also receive a high-quality,
                   original logo that you could use for your business.
                 </span>{" "}
                 (Gotta differentiate yourself in any way, y&apos;know?). Here
-                are some of my work:
+                are some of our work:
               </p>
             </div>
           </div>

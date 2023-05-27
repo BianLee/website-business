@@ -37,8 +37,8 @@ export default function Banners() {
           </div>
           <div class="mx-auto text-left">
             <p class="mt-4 text-md text-gray-800">
-              An actual banner to promote my debut album release. It is also my
-              current{" "}
+              An actual banner to promote Bian&apos;s debut album release. It is
+              also his current{" "}
               <a
                 href="https://twitter.com/bostonlobster99"
                 target="_blank"
