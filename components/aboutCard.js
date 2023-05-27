@@ -20,7 +20,7 @@ export default function AboutCard() {
           Empireweb.space Team
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-2">
           <div
             style={{ paddingTop: "2rem", paddingBottom: "3rem" }}
             href="#"
@@ -31,7 +31,7 @@ export default function AboutCard() {
             <div class="sm:flex sm:justify-between sm:gap-4">
               <h3 class="lg:text-3xl text-2xl font-bold text-gray-700 sm:text-2xl">
                 Bian Lee{" "}
-                <span class="text-sm  text-gray-500">
+                <span class="text-sm  text-gray-500 font-normal">
                   Lead Developer / Sales
                 </span>
               </h3>
@@ -57,7 +57,9 @@ export default function AboutCard() {
               <div>
                 <h3 class="lg:text-3xl text-2xl font-bold text-gray-700 sm:text-2xl">
                   Ritvik Irigireddy{" "}
-                  <span class="text-sm  text-gray-500">Developer / Sales</span>
+                  <span class="text-sm  text-gray-500 font-normal">
+                    Developer / Sales
+                  </span>
                 </h3>
               </div>
             </div>
