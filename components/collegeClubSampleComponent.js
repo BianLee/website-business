@@ -68,7 +68,7 @@ export default function CollegeClubSampleComponent() {
             <div class="mx-auto max-w-lg text-center">
               <br />
               <h2
-                class="text-5xl font-bold text-gray-900 md:text-5xl"
+                class="text-5xl font-bold text-gray-700 md:text-5xl"
                 style={{ lineHeight: "3.7rem" }}
               >
                 We&apos;re Building the Future of Quant Research & Trading
@@ -87,7 +87,7 @@ export default function CollegeClubSampleComponent() {
       <section class="overflow-hidden bg-white sm:grid sm:grid-cols-2">
         <div class="p-8 md:p-12 lg:px-16 lg:py-24">
           <div class="mx-auto max-w-xl text-center ltr:sm:text-left rtl:sm:text-right">
-            <h2 class="text-2xl font-bold text-gray-900 md:text-3xl">
+            <h2 class="text-2xl font-bold text-gray-600 md:text-3xl">
               Solving some of the most complex problems in today&apos;s market
             </h2>
 

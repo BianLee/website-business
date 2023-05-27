@@ -12,7 +12,7 @@ export default function Banners() {
             <h2 class="text-3xl font-normal text-gray-900 sm:text-4xl">
               Get banners with Standard or Startup tier
             </h2>
-            <div class="mx-auto text-center">
+            <div class="mx-auto text-left md:text-center sm:text-left lg:text-center">
               <p class="mt-4 text-lg text-gray-800">
                 Great banners are essential for branding.{" "}
                 <span class="bg-sky-100">

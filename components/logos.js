@@ -12,7 +12,7 @@ export default function Logos() {
             <h2 class="text-3xl font-normal text-gray-900 sm:text-4xl">
               Custom-designed logo is a cherry on top
             </h2>
-            <div class="mx-auto text-center">
+            <div class="mx-auto text-left md:text-center sm:text-left lg:text-center">
               <p class="mt-4 text-lg text-gray-800">
                 Besides dev work, I also design. (Mostly to prove a point that{" "}
                 <i>anyone</i> can design).{" "}
