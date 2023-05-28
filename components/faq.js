@@ -113,7 +113,7 @@ export default function Contact() {
               <p class="mt-4 leading-relaxed text-gray-700">
                 Yes, we are very flexible and we can always negotiate regarding
                 the features of the site, as well as pricing. Please feel free
-                to email us at bianlee2004@gmail.com.
+                to email us at empirewebspace@gmail.com.
               </p>
             </details>
             <details class="group rounded-lg bg-gray-200 p-6 [&_summary::-webkit-details-marker]:hidden">

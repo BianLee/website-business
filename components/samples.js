@@ -19,7 +19,8 @@ export default function Samples() {
                 schemes to fit the purpose of a site. From{" "}
                 <span class="bg-amber-100">
                   professional portfolios, artistic pages, org directories, and
-                  startup landing pages, we always have the right design.
+                  startup landing pages, we always have the right design and
+                  architecture.
                 </span>{" "}
                 Check out the samples:
               </p>

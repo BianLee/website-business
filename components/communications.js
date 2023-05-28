@@ -19,22 +19,21 @@ export default function Communications() {
             <div class="text-white">
               <div class="mx-auto max-w-4xl text-left md:text-center sm:text-left lg:text-center">
                 <p class="mt-4 text-lg text-gray-800">
-                  Our two{" "}
                   <span class="bg-emerald-200">
-                    preferred methods of communication with clients are Email or
-                    Discord
-                  </span>
-                  : Once you submit the Google Form, we&apos;ll send you an
-                  email confirming that we have received your request for a
-                  website. If you left any questions on the form, we&apos;ll
-                  also answer them. We also provide real-time support through
-                  messaging on our{" "}
+                    We value our clients and do our best to respond to you in a
+                    timely manner.
+                  </span>{" "}
+                  Through Discord, we provide 24-hr real time support where you
+                  can directly message us. Once you submit the Google Form,
+                  we&apos;ll send you an email confirming that we have received
+                  your request for a website. If you left any questions on the
+                  form, we&apos;ll also answer them. Join the{" "}
                   <a href="https://discord.gg/J2HMe5S7Gf" target="_blank">
                     <span class="bg-emerald-200">
                       <u>Discord server</u>
-                    </span>
+                    </span>{" "}
+                    now and start chatting with us!
                   </a>
-                  . Join the server and start chatting with us directly!
                   <br />
                   <br />
                   Email: empirewebspace@gmail.com, Discord:{" "}
