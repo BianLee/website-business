@@ -10,10 +10,13 @@ export default function Header() {
       <section className="bg-gradient-to-bl from-violet-300 via-pink-500 to-neutral-100">
         <div class="px-4 text-white -mb-10 pt-5 mr-5 sm:invisible lg:visible invisible">
           <p class="text-right text-md font-medium">
-            <Link href="https://twitter.com/bostonlobster99" target="_blank">
+            <Link href="https://twitter.com/empirewebspace" target="_blank">
               Twitter
             </Link>
-            <Link href="https://instagram.com/bian.lee" target="_blank">
+            <Link
+              href="https://www.instagram.com/empirewebspace/"
+              target="_blank"
+            >
               <span class="ml-6">Instagram</span>
             </Link>
             <Link href="https://discord.gg/J2HMe5S7Gf" target="_blank">

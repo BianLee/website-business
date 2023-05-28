@@ -11,12 +11,12 @@ export default function Footer() {
       <footer aria-label="Site Footer" class="bg-white mt-4">
         <div class="mx-auto max-w-screen-xl px-4 py-6 sm:px-6 lg:px-8">
           <div class="flex flex-col items-center gap-4 rounded-lg bg-gradient-to-br from-violet-500 via-sky-500 to-violet-300 p-6 shadow-lg sm:flex-row sm:justify-between">
-            <strong
+            <span
               class="text-xl text-white sm:text-xl"
               style={{ marginLeft: "1rem" }}
             >
               Build Empires on the Web with Empireweb.space
-            </strong>
+            </span>
 
             <Link
               class="inline-flex items-center gap-2 rounded-full border border-white bg-white px-8 py-3 text-indigo-600 active:bg-white/90"

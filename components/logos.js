@@ -38,7 +38,7 @@ export default function Logos() {
             <div>
               <img
                 className="h-auto max-w-full rounded-lg"
-                src="ewsFinal.png"
+                src="e.png"
                 alt=""
               />
             </div>
@@ -52,7 +52,7 @@ export default function Logos() {
             <div>
               <img
                 className="h-auto max-w-full rounded-lg"
-                src="logoFour.png"
+                src="empire.png"
                 alt=""
               />
             </div>
