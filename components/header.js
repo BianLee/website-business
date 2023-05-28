@@ -6,7 +6,21 @@ import "../app/globals.css";
 export default function Header() {
   return (
     <>
+      {" "}
       <section className="bg-gradient-to-bl from-violet-300 via-pink-500 to-neutral-100">
+        <div class="px-4 text-white -mb-10 pt-5 mr-5 sm:invisible lg:visible invisible">
+          <p class="text-right text-md font-medium">
+            <Link href="https://twitter.com/bostonlobster99" target="_blank">
+              Twitter
+            </Link>
+            <Link href="https://instagram.com/bian.lee" target="_blank">
+              <span class="ml-6">Instagram</span>
+            </Link>
+            <Link href="https://discord.gg/J2HMe5S7Gf" target="_blank">
+              <span class="ml-6">Discord</span>
+            </Link>
+          </p>
+        </div>
         <div className="mx-auto lg:max-w-5xl sm:max-w-4xl md:max-w-6xl max-w-5xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
           {/* Build & Grow Your Listener Base */}
           <h2
@@ -15,7 +29,7 @@ export default function Header() {
           >
             <div className="inline-block mb-2">
               <div
-                class="text-white inline-block text-[55px] lg:text-7xl sm:text-[55px]"
+                class="text-white inline-bl ock text-[55px] lg:text-7xl sm:text-[55px]"
                 style={{ lineHeight: "3.7rem" }}
               >
                 Build Empires on the Web
@@ -46,7 +60,7 @@ export default function Header() {
               Hire Us →
             </Link>
           </center>
-        </div>
+        </div>{" "}
       </section>
     </>
   );

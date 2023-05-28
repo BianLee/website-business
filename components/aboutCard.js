@@ -39,13 +39,16 @@ export default function AboutCard() {
 
             <div class="mt-4">
               <p class="max-w-full text-md text-gray-500">
- 		Bian Lee is a college freshman studying computer science and economics. He previously
-		interned as an analyst at social finance startup Vestr.io, and this summer he&apos;ll be
-		a data analyst intern at California Air Resources Board. He is the founder of Empireweb.space
-		agency and is also the lead developer. He is proficient in full-stack development. 
+                Bian Lee is a college freshman studying computer science and
+                economics. He previously interned as an analyst at social
+                finance startup Vestr.io, and this summer he&apos;ll be a data
+                analyst intern at California Air Resources Board. He is the
+                founder of Empireweb.space agency and is also the lead
+                developer.
               </p>
             </div>
           </div>
+
           <div
             href="#"
             style={{ paddingTop: "2rem", paddingBottom: "3rem" }}
@@ -66,7 +69,7 @@ export default function AboutCard() {
 
             <div class="mt-4">
               <p class="max-w-full text-md text-gray-500">
-                Ritvik Irigireddy is a developer at Empireweb.space. He is an
+                Ritvik Irigireddy is a full-time student and developer. He is an
                 alumni of LaunchX program, and he has also done research at
                 UCSD. He is proficient in full-stack development.
               </p>
