@@ -16,7 +16,7 @@ export default function Contact() {
             </h2>
           </div>
           <br />
-          <br />
+
           <div class="space-y-4">
             <details class="group rounded-lg bg-gray-200 p-6 [&_summary::-webkit-details-marker]:hidden">
               <summary class="flex cursor-pointer items-center justify-between gap-1.5 text-gray-900">
