@@ -32,17 +32,17 @@ export default function AboutCard() {
               <h3 class="lg:text-3xl text-2xl font-bold text-gray-700 sm:text-2xl">
                 Bian Lee{" "}
                 <span class="text-sm  text-gray-500 font-normal">
-                  Lead Developer / Sales
+                  Lead Developer / Design / Sales
                 </span>
               </h3>
             </div>
 
             <div class="mt-4">
               <p class="max-w-full text-md text-gray-500">
-                Bian Lee is the founder of Empireweb.space agency and is also
-                the lead developer of all the projects. He is proficient in full
-                stack development, with NextJS or MERN stack. He studies
-                computer science and economics as a freshman in college.
+ 		Bian Lee is a college freshman studying computer science and economics. He previously
+		interned as an analyst at social finance startup Vestr.io, and this summer he&apos;ll be
+		a data analyst intern at California Air Resources Board. He is the founder of Empireweb.space
+		agency and is also the lead developer. He is proficient in full-stack development. 
               </p>
             </div>
           </div>
