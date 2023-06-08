@@ -50,6 +50,7 @@ export default function AboutCard() {
               </p>
             </div>
           </div>
+          {/*
           <div
             style={{ paddingTop: "2rem", paddingBottom: "3rem" }}
             href="#"
@@ -72,6 +73,8 @@ export default function AboutCard() {
               </p>
             </div>
           </div>
+           */}
+          {/*
           <div
             href="#"
             style={{ paddingTop: "2rem", paddingBottom: "3rem" }}
@@ -97,6 +100,7 @@ export default function AboutCard() {
               </p>
             </div>
           </div>
+          */}
         </div>
       </section>
     </>
