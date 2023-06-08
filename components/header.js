@@ -2,11 +2,13 @@ import React from "react";
 import "../fonts/satoshi.css";
 import Link from "next/link";
 import "../app/globals.css";
+import Announcement from "./announcement";
 
 export default function Header() {
   return (
     <>
       {" "}
+      <Announcement />
       <section className="bg-gradient-to-bl from-violet-300 via-pink-500 to-neutral-100">
         <div class="px-4 text-white -mb-10 pt-5 mr-5 sm:invisible lg:visible invisible">
           <p class="text-right text-md font-medium">
